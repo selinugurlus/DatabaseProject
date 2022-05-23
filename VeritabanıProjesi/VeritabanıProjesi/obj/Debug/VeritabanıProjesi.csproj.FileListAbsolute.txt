@@ -1,0 +1,76 @@
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe.config
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.AssemblyReference.cache
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Properties.Resources.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.GenerateResource.cache
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.AnaMenuForm.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezOlusturForm.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.YoneticiGiris.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.CalisanGiris.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezOlusturma.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.OdemeForm.resources
+C:\Users\selin\source\repos\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezGuncelleİptalEtForm.resources
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.OdemeForm.resources
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Properties.Resources.resources
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.exe
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.pdb
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.AnaMenu.resources
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe.config
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.pdb
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.MusteriKayitForm.resources
+C:\Users\Win10\source\repos\Veritaban-Projesi\VeritabanıProjesi\güncel veritabanı\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezKullanıcıGirişiForm.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe.config
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.pdb
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.AssemblyReference.cache
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.AnaMenu.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.MusteriKayitForm.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.OdemeForm.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Properties.Resources.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezKullanıcıGirişiForm.resources
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.GenerateResource.cache
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.exe
+C:\Users\EKİN\Source\Repos\Veritaban-Projesi\buolsun\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe.config
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.AssemblyReference.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.AnaMenu.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Form1.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.MusteriKayitForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.OdemeForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Properties.Resources.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezKullanıcıGirişiForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.GenerateResource.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\Veritaban-Projesi\veritabanı222\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe.config
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\bin\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.AssemblyReference.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.AnaMenu.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Form1.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.MusteriKayitForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.OdemeForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.Properties.Resources.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.RezKullanıcıGirişiForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.GenerateResource.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.exe
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.pdb
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.CalisanGiris.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.CalisanRaporForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.YoneticiGirisForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.YoneticiRaporForm.resources
+C:\Users\selin\source\repos\Veritaban-Projesi\otelotomasyonuvt\VeritabanıProjesi\VeritabanıProjesi\obj\Debug\VeritabanıProjesi.FaturaForm.resources

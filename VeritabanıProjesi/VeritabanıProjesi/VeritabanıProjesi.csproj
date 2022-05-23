@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE9319D2-695A-4385-9FE4-BFEE24D86759}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VeritabanıProjesi</RootNamespace>
+    <AssemblyName>VeritabanıProjesi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanGiris.Designer.cs">
+      <DependentUpon>CalisanGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanRaporForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanRaporForm.Designer.cs">
+      <DependentUpon>CalisanRaporForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaturaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaturaForm.Designer.cs">
+      <DependentUpon>FaturaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriKayitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriKayitForm.Designer.cs">
+      <DependentUpon>MusteriKayitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdemeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeForm.Designer.cs">
+      <DependentUpon>OdemeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtelOtomasyonuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelOtomasyonuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RezKullanıcıGirişiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezKullanıcıGirişiForm.Designer.cs">
+      <DependentUpon>RezKullanıcıGirişiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veritabanı_SisDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Veritabanı_SisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Veritabanı_SisDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Veritabanı_SisDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGirisForm.Designer.cs">
+      <DependentUpon>YoneticiGirisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiRaporForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiRaporForm.Designer.cs">
+      <DependentUpon>YoneticiRaporForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanGiris.resx">
+      <DependentUpon>CalisanGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanRaporForm.resx">
+      <DependentUpon>CalisanRaporForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaturaForm.resx">
+      <DependentUpon>FaturaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriKayitForm.resx">
+      <DependentUpon>MusteriKayitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeForm.resx">
+      <DependentUpon>OdemeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RezKullanıcıGirişiForm.resx">
+      <DependentUpon>RezKullanıcıGirişiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGirisForm.resx">
+      <DependentUpon>YoneticiGirisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiRaporForm.resx">
+      <DependentUpon>YoneticiRaporForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="OtelOtomasyonuDataSet.xsc">
+      <DependentUpon>OtelOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OtelOtomasyonuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OtelOtomasyonuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OtelOtomasyonuDataSet.xss">
+      <DependentUpon>OtelOtomasyonuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Veritabanı_SisDataSet.xsc">
+      <DependentUpon>Veritabanı_SisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Veritabanı_SisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Veritabanı_SisDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Veritabanı_SisDataSet.xss">
+      <DependentUpon>Veritabanı_SisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Veritabanı_SisDataSet1.xsc">
+      <DependentUpon>Veritabanı_SisDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Veritabanı_SisDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Veritabanı_SisDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Veritabanı_SisDataSet1.xss">
+      <DependentUpon>Veritabanı_SisDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
